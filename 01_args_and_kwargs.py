@@ -1,4 +1,4 @@
-'''
+ '''
 *args (Arguments):
 - Think of *args like a backpack that can hold any number of items
 - It lets you pass any number of values to a function
