@@ -2,6 +2,7 @@ class Constants:
     _instance = None
     PI = 3.14159
     MAX_USERS = 100
+    APP_NAME = "MyApp"
 
     def __new__(cls):
         if cls._instance is None:
