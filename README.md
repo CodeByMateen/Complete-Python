@@ -1,5 +1,7 @@
 # Complete-Python
 
+you can't print set[0] set values index vise
+
 ```
 tell me python <concept_name> in most easy way
 ```
