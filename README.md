@@ -1,6 +1,9 @@
 # Complete-Python
 
-you can't print set[0] set values index vise
+```
+$ you can't print set[0] set values index vise
+$ similar to sets, dictinory don't contain duplicate values
+```
 
 ```
 tell me python <concept_name> in most easy way
