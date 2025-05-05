@@ -1,5 +1,7 @@
 # Complete-Python
 
+Topics to study: OOP, generators, decorators, multithreading, asyncio, context managers, memory management
+
 ```
 $ you can't print set[0] set values index vise
 $ similar to sets, dictinory don't contain duplicate values
