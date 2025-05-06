@@ -1,6 +1,6 @@
 # Complete-Python
 
-Topics to study: OOP, generators, decorators, multithreading, asyncio, context managers, memory management
+Topics to study: Hash Table, OOP, generators, decorators, multithreading, asyncio, context managers, memory management, How python works in behind, PEP 8 Guidelines
 
 ```
 $ you can't print set[0] set values index vise
