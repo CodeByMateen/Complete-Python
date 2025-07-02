@@ -1,3 +1,10 @@
+## Prompt
+```
+tell me python enumeration easy
+why to use it
+how will be the code without enumeration and with enumeration
+```
+
 # Complete-Python
 
 Topics to study: Hash Table, OOP, enumerations, list comprehension, map, filter, reduce, generators, decorators, multithreading, asyncio, context managers, memory management, How python works in behind, PEP 8 Guidelines
